@@ -17,7 +17,9 @@ function displayResults (results, store) {
       resultList += '<h3 class="list__title post__title"><a href="' + item.url + '">' + item.title + '</a></h3>'
 
       // garden description snippet
-      resultList += item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 179) + '...'
+      let description = item.content.replace(/^(.|\n)*Garden Description /, '').substring(0, 179)
+      description = description.replace(/ \w+$/, ' ...')
+      resultList += description
 
       resultList += '</article>'
     }
