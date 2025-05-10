@@ -33,43 +33,48 @@
 &lt;li>* Deceased&lt;/li>
 &lt;li>Corresponding editors are noted in &lt;strong>bold&lt;/strong>.&lt;/li>
 &lt;/ul>
-&lt;h3 id="editors">Editors&lt;/h3>
+&lt;h2 id="editors">Editors&lt;/h2>
 &lt;ul>
 &lt;li>&lt;em>Wilhelmina Jashemski&lt;/em>* , University of Maryland&lt;/li>
 &lt;li>&lt;a href="https://archaeology.cornell.edu/kathryn-gleason">Kathryn Gleason&lt;/a>, Cornell University, Executive Editor: &lt;a href="mailto:klg16@cornell.edu">klg16@cornell.edu&lt;/a>&lt;/li>
 &lt;li>Kim J. Hartswick, CUNY Graduate Center&lt;/li>
 &lt;li>&lt;a href="http://www.archeo.ens.fr/Malek-Amina-Aicha.html?lang=fr">Amina-Aïcha Malek&lt;/a>, AOROC, CNRS ENS PSL&lt;/li>
+&lt;li>&lt;a href="mailto:dk4338@nyu.edu">Divya Kumar-Dumas&lt;/a>, ISAW/NYU, Digital Editor&lt;/li>
 &lt;/ul>
-&lt;h3 id="website-publication-designers--technical-advisors">Website publication designers &amp;amp; technical advisors&lt;/h3>
-&lt;p>&lt;em>Website and Data Structure Design&lt;/em>&lt;/p>
+&lt;h2 id="website-publication-designers--technical-advisors">Website publication designers &amp;amp; technical advisors&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="mailto:dk4338@nyu.edu">Divya Kumar-Dumas&lt;/a>, ISAW/NYU, Production Coordinator&lt;/li>
+&lt;li>&lt;a href="mailto:kgj2@cornell.edu">Keith Jenkins&lt;/a>, Cornell University, GIS mapping and website development&lt;/li>
+&lt;/ul>
+&lt;h3 id="website-and-data-structure-design">Website and Data Structure Design&lt;/h3>
 &lt;ul>
 &lt;li>Christian Casey, ISAW/NYU&lt;/li>
 &lt;li>David M. Ratzan, ISAW/NYU&lt;/li>
 &lt;li>Sebastian Heath, ISAW/NYU&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Mapping&lt;/em>&lt;/p>
+&lt;h3 id="mapping">Mapping&lt;/h3>
 &lt;ul>
 &lt;li>&lt;a href="https://guides.library.cornell.edu/prf.php?account_id=9255">Keith Jenkins&lt;/a>, Cornell University, GIS mapping&lt;/li>
 &lt;li>&lt;a href="https://isaw.nyu.edu/people/staff/gabriel-mckee">Gabriel McKee&lt;/a>, ISAW/NYU, Pleiades liaison&lt;/li>
 &lt;/ul>
-&lt;h3 id="editorial-teams-for-geographic-areas-and-thematic-content">Editorial teams for geographic areas and thematic content&lt;/h3>
-&lt;h5 id="thematic-areas">Thematic areas&lt;/h5>
-&lt;p>&lt;em>Tomb gardens&lt;/em>&lt;/p>
+&lt;h2 id="editorial-teams-for-geographic-areas-and-thematic-content">Editorial teams for geographic areas and thematic content&lt;/h2>
+&lt;h3 id="thematic-areas">Thematic areas&lt;/h3>
+&lt;h4 id="tomb-gardens">Tomb gardens&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>John Bodel&lt;/strong>, Brown University: &lt;a href="mailto:john_bodel@brown.edu">john_bodel@brown.edu&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h5 id="geographic-and-political-areas">Geographic and political areas&lt;/h5>
-&lt;p>&lt;em>Achaea&lt;/em>&lt;/p>
+&lt;h3 id="geographic-and-political-areas">Geographic and political areas&lt;/h3>
+&lt;h4 id="achaea">Achaea&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Jane Millar, University of Texas, Austin&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Aegyptus&lt;/em>&lt;/p>
+&lt;h4 id="aegyptus">Aegyptus&lt;/h4>
 &lt;ul>
 &lt;li>&lt;em>Roger S. Bagnall&lt;/em>, ISAW/NYU&lt;/li>
 &lt;li>&lt;strong>David M. Ratzan&lt;/strong>, ISAW/NYU: &lt;a href="mailto:david.ratzan@nyu.edu">david.ratzan@nyu.edu&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Africa Proconsularis&lt;/em>&lt;/p>
+&lt;h4 id="africa-proconsularis">Africa Proconsularis&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Xue Xia, Cornell University&lt;/li>
@@ -78,23 +83,23 @@
 &lt;li>&lt;em>Michèle Blanchard Lemée&lt;/em>*&lt;/li>
 &lt;li>&lt;em>Abdelfattah Ichkhakh&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Arabia Petraea&lt;/em>&lt;/p>
+&lt;h4 id="arabia-petraea">Arabia Petraea&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Leigh Ann Bedal&lt;/strong>, Pennsylvania State University/Behrend: &lt;a href="mailto:lxb41@psu.edu">lxb41@psu.edu&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Armenia&lt;/em>&lt;/p>
+&lt;h4 id="armenia">Armenia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Asia&lt;/em>&lt;/p>
+&lt;h4 id="asia">Asia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
 &lt;li>Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt&lt;/li>
 &lt;li>&lt;em>Kathryn Gleason&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Bithynia and Pontus&lt;/em>&lt;/p>
+&lt;h4 id="bithynia-and-pontus">Bithynia and Pontus&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
@@ -102,35 +107,35 @@
 &lt;li>&lt;em>Maureen Carroll&lt;/em>&lt;/li>
 &lt;li>&lt;em>Kathryn Gleason&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Britannia&lt;/em>&lt;/p>
+&lt;h4 id="britannia">Britannia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Jane Millar, University of Texas, Austin&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Cappadocia&lt;/em>&lt;/p>
+&lt;h4 id="cappadocia">Cappadocia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
 &lt;li>Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Cilicia&lt;/em>&lt;/p>
+&lt;h4 id="cilicia">Cilicia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Cyprus&lt;/em>&lt;/p>
+&lt;h4 id="cyprus">Cyprus&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>&lt;em>Elizabeth Macaulay&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Cyrene &amp;amp; Creta&lt;/em>&lt;/p>
+&lt;h4 id="cyrene--creta">Cyrene &amp;amp; Creta&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Xue Xia, Cornell University&lt;/li>
 &lt;li>&lt;em>Wilhelmina Jashemski&lt;/em>*&lt;/li>
 &lt;li>&lt;em>Eugenia Salza Prina Ricotti&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Galatia&lt;/em>&lt;/p>
+&lt;h4 id="galatia">Galatia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
@@ -138,7 +143,7 @@
 &lt;li>&lt;em>Maureen Carroll&lt;/em>&lt;/li>
 &lt;li>&lt;em>Kathryn Gleason&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Gallia Aquitania&lt;/em>&lt;/p>
+&lt;h4 id="gallia-aquitania">Gallia Aquitania&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Séverine Blin, Archéologie et philologie d'Orient et d'Occident
@@ -148,7 +153,7 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Emilie Chassillan&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Gallia Belgica&lt;/em>&lt;/p>
+&lt;h4 id="gallia-belgica">Gallia Belgica&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Séverine Blin, Archéologie et philologie d'Orient et d'Occident
@@ -158,7 +163,7 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Emilie Chassillan&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Gallia Lugdunensis&lt;/em>&lt;/p>
+&lt;h4 id="gallia-lugdunensis">Gallia Lugdunensis&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Séverine Blin, Archéologie et philologie d'Orient et d'Occident
@@ -168,7 +173,7 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Emilie Chassillan&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Gallia Narbonensis&lt;/em>&lt;/p>
+&lt;h4 id="gallia-narbonensis">Gallia Narbonensis&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Séverine Blin, Archéologie et philologie d'Orient et d'Occident
@@ -178,24 +183,24 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Emilie Chassillan&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Germania Inferior&lt;/em>&lt;/p>
+&lt;h4 id="germania-inferior">Germania Inferior&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Jane Millar, University of Texas, Austin&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Germania Superior&lt;/em>&lt;/p>
+&lt;h4 id="germania-superior">Germania Superior&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Jane Millar, University of Texas, Austin&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Hispania Tarraconensis&lt;/em>&lt;/p>
+&lt;h4 id="hispania-tarraconensis">Hispania Tarraconensis&lt;/h4>
 &lt;ul>
 &lt;li>&lt;em>Trinidad Nogales Basarreta&lt;/em>&lt;/li>
 &lt;li>&lt;em>José María Álvarez Martínez&lt;/em>&lt;/li>
 &lt;li>&lt;em>Marguerita Orfila&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Hispania Lusitania&lt;/em>&lt;/p>
+&lt;h4 id="hispania-lusitania">Hispania Lusitania&lt;/h4>
 &lt;ul>
 &lt;li>&lt;em>Jorge de Alarcão&lt;/em>&lt;/li>
 &lt;li>&lt;em>Trinidad Nogales Basarreta&lt;/em>&lt;/li>
@@ -203,14 +208,14 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Marguerita Orfila&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Hispania Baetica&lt;/em>&lt;/p>
+&lt;h4 id="hispania-baetica">Hispania Baetica&lt;/h4>
 &lt;ul>
 &lt;li>&lt;em>Trinidad Nogales Basarreta&lt;/em>&lt;/li>
 &lt;li>&lt;em>José María Álvarez Martínez&lt;/em>&lt;/li>
 &lt;li>&lt;em>Marguerita Orfila&lt;/em>&lt;/li>
 &lt;li>&lt;em>Clopper Almon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Italia&lt;/em>&lt;/p>
+&lt;h4 id="italia">Italia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Kathryn Gleason&lt;/strong>, Cornell University: &lt;a href="mailto:klg16@cornell.edu">klg16@cornell.edu&lt;/a>&lt;/li>
 &lt;li>Kim Hartswick, CUNY Graduate Center&lt;/li>
@@ -218,15 +223,13 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Wilhelmina Jashemski&lt;/em>*&lt;/li>
 &lt;li>&lt;em>Eugenia Salza Prina Ricotti&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;blockquote>
-&lt;p>Rome:&lt;/p>&lt;/blockquote>
+&lt;h4 id="italiarome">Italia/Rome&lt;/h4>
 &lt;ul>
 &lt;li>Vincent Jolivet, AOROC, CNRS ENS&lt;/li>
 &lt;li>&lt;strong>Elizabeth Macaulay&lt;/strong>, CUNY Graduate Center: &lt;a href="mailto:emacaulay_lewis@gc.cuny.edu">emacaulay_lewis@gc.cuny.edu&lt;/a>&lt;/li>
 &lt;li>Rhiannon Pare, Princeton University&lt;/li>
 &lt;/ul>
-&lt;blockquote>
-&lt;p>Vesuvian Sites:&lt;/p>&lt;/blockquote>
+&lt;h4 id="italiavesuvian-sites-herculaneum-pompeii-stabiae">Italia/Vesuvian Sites (Herculaneum, Pompeii, Stabiae)&lt;/h4>
 &lt;ul>
 &lt;li>Riccardo Olivito, IMT School for Advanced Studies Lucca&lt;/li>
 &lt;li>&lt;strong>Jessica Venner&lt;/strong>, University of Birmingham: &lt;a href="mailto:jlv871@student.bham.ac.uk">jlv871@student.bham.ac.uk&lt;/a>&lt;/li>
@@ -236,13 +239,13 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>Yifan Li, Cornell University&lt;/li>
 &lt;li>&lt;em>Wilhelmina Jashemski&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Judaea&lt;/em>&lt;/p>
+&lt;h4 id="judaea">Judaea&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Kathryn Gleason&lt;/strong>, Cornell University: &lt;a href="mailto:klg16@cornell.edu">klg16@cornell.edu&lt;/a>&lt;/li>
 &lt;li>Yaniv Korman, Cornell University&lt;/li>
 &lt;li>&lt;em>Ehud Netzer&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Lycia and Pamphylia&lt;/em>&lt;/p>
+&lt;h4 id="lycia-and-pamphylia">Lycia and Pamphylia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
@@ -250,12 +253,12 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Maureen Carroll&lt;/em>&lt;/li>
 &lt;li>&lt;em>Kathryn Gleason&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Macedonia&lt;/em>&lt;/p>
+&lt;h4 id="macedonia">Macedonia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Jane Millar, University of Texas, Austin&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Mauretania&lt;/em>&lt;/p>
+&lt;h4 id="mauretania">Mauretania&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Xue Xia, Cornell University&lt;/li>
@@ -263,36 +266,36 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>&lt;em>Wilhelmina Jashemski&lt;/em>*&lt;/li>
 &lt;li>&lt;em>Michèle Blanchard Lemée&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Mesopotamia&lt;/em>&lt;/p>
+&lt;h4 id="mesopotamia">Mesopotamia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Moesia (Superior and Inferior)&lt;/em>&lt;/p>
+&lt;h4 id="moesia-superior-and-inferior">Moesia (Superior and Inferior)&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Noricum&lt;/em>&lt;/p>
+&lt;h4 id="noricum">Noricum&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Jane Millar, University of Texas, Austin&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Numidia&lt;/em>&lt;/p>
+&lt;h4 id="numidia">Numidia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Amina Aicha Malek&lt;/strong>, AOROC, CNRS ENS PSL: &lt;a href="mailto:aicha.malek@ens.fr">aicha.malek@ens.fr&lt;/a>&lt;/li>
 &lt;li>Xue Xia, Cornell University&lt;/li>
 &lt;li>&lt;em>Michèle Blanchard Lemée&lt;/em>*&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Pannonia&lt;/em>&lt;/p>
+&lt;h4 id="pannonia">Pannonia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Raetia&lt;/em>&lt;/p>
+&lt;h4 id="raetia">Raetia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Maureen Carroll&lt;/strong>, University of York: &lt;a href="mailto:maureen.carroll@york.ac.uk">maureen.carroll@york.ac.uk&lt;/a>&lt;/li>
 &lt;li>Caroline Kneubuhl, Musée romain d'Avenches&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Syria&lt;/em>&lt;/p>
+&lt;h4 id="syria">Syria&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Leigh Ann Bedal&lt;/strong>, Pennsylvania State University/Behrend: &lt;a href="mailto:lxb41@psu.edu">lxb41@psu.edu&lt;/a>&lt;/li>
 &lt;li>Divya Kumar-Dumas, University of Pennsylvania&lt;/li>
@@ -301,11 +304,11 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>Isil Isiklikaya-Laubscher, Goethe-Universität Frankfurt&lt;/li>
 &lt;li>&lt;em>Christine Kondoleon&lt;/em>&lt;/li>
 &lt;/ul>
-&lt;p>&lt;em>Thracia&lt;/em>&lt;/p>
+&lt;h4 id="thracia">Thracia&lt;/h4>
 &lt;ul>
 &lt;li>&lt;strong>Catherine Kearns&lt;/strong>, University of Chicago: &lt;a href="mailto:cmkearns@uchicago.edu">cmkearns@uchicago.edu&lt;/a>&lt;/li>
 &lt;/ul>
-&lt;h3 id="authors">Authors&lt;/h3>
+&lt;h2 id="authors">Authors&lt;/h2>
 &lt;ul>
 &lt;li>Benedetta Adembri&lt;/li>
 &lt;li>Jorge de Alarcão&lt;/li>
@@ -399,7 +402,7 @@ AOROC UMR 8546 CNRS-ENS-PSL&lt;/li>
 &lt;li>Roger Wilson&lt;/li>
 &lt;li>Konstantinos L. Zachos&lt;/li>
 &lt;/ul>
-&lt;h3 id="acknowledgements">Acknowledgements&lt;/h3>
+&lt;h2 id="acknowledgements">Acknowledgements&lt;/h2>
 &lt;p>We gratefully acknowledge the work of past editorial staff and students who have contributed to the success of this project. We offer special thanks to Dr. Henry Ferry, Executor for the Estate of Wilhelmina Jashemski for his ongoing support of the &lt;em>Gardens of the Roman Empire&lt;/em> project, and Beatrice Rehl of Cambridge University Press. We also acknowledge with the gratitude the support of the directors of Garden &amp;amp; Landscape Studies at Dumbarton Oaks: Elisabeth Blair MacDougall, Michel Conan, and Thaïsa Way.&lt;/p>
 &lt;p>We have worked with a terrific team of students who studied ancient gardens and the digital humanities by serving as the “micro-editors” of these entries: Chen Chen, June Dorsch, Tiffany Fong, Shamika Ghate, Nicholas Gill, Annette Lei Guan, Yuming Huang, Yuhan Li, Yaniv Korman, Yifan Li, Yichen Liu, Yuyao Liu, Zhenrui Mei, Jane Ellen Millar, Yvette Pollack, Joshua Rosenheim, Dustin Smith, Amartya Shri, Yunyan Sun, Lai Ching Tsui, Xingjian Wang, Brandon Wilson, Xue Xia, Lingyi Xu, Jinyi Yang, and Jianing Zhou.&lt;/p>
 &lt;p>Another team has worked with Keith Jenkins on the GIS mapping projects since 2017: David L. Ffrench III, Ned Fischer, Catherine Kearns, Charly Parker Kring, Jie Li, Sibel Li, Yixuan Li, Zejun Li, Huan Liu, Erin Wright, and Juliana Van Roggen.&lt;/p>
@@ -1378,14 +1381,14 @@ NEW WAY ↓↓↓↓
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vi.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
  alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -2090,14 +2093,14 @@ NEW WAY ↓↓↓↓
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vi.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
  alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -2198,14 +2201,14 @@ NEW WAY ↓↓↓↓
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vi.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
  alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -2332,14 +2335,14 @@ NEW WAY ↓↓↓↓
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vi.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
  alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -2417,14 +2420,14 @@ NEW WAY ↓↓↓↓
 
 -->
 &lt;!--
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vi.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-vi.png"
  alt="Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vi, plan in Jashemski, *Gardens*, plan 9, p. 34; *NSc* (1929), pl 18; Spinnazola, *Scavi nuovi*, vol. 1, after p. 679; Ibid., vol. 2, after p. 1027 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -7792,7 +7795,7 @@ recent excavations&lt;/p>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_asinus_nica_photo.png"
+&lt;figure>&lt;img src="../images/house_of_asinus_nica_photo.jpg"
  alt="View of the garden.">&lt;figcaption>
  &lt;h4>Fig. 2: View of the garden (Blanchard-Lemée, M., AOrOc)&lt;/h4>
  &lt;/figcaption>
@@ -7861,7 +7864,7 @@ recent excavations&lt;/p>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo1.png"
+&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo1.jpg"
  alt="The small peristyle garden B and its semi circular basin; M. Blanchard Lemée, AOrOc">&lt;figcaption>
  &lt;h4>Fig. 2: The small peristyle garden B and its semi circular basin (Février, P.-A. – CCJ 62889))&lt;/h4>
  &lt;/figcaption>
@@ -7945,13 +7948,13 @@ recent excavations&lt;/p>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_castorius_photo1.png"
+&lt;figure>&lt;img src="../images/house_of_castorius_photo1.jpg"
  alt="Southwest corner of the peristyle XVI, the L shaped planted area.">&lt;figcaption>
  &lt;h4>Fig. 2: Southwest corner of the peristyle XVI, the L shaped planted area (Blanchard-Lemée, M., AOrOc)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_castorius_photo2.png"
+&lt;figure>&lt;img src="../images/house_of_castorius_photo2.jpg"
  alt="Hexagonal base engraved with an ivy scroll at the center of the rectangular pool.">&lt;figcaption>
  &lt;h4>Fig. 3: Hexagonal base engraved with an ivy scroll at the center of the rectangular pool (Blanchard-Lemée, M., AOrOc)&lt;/h4>
  &lt;/figcaption>
@@ -8019,13 +8022,13 @@ recent excavations&lt;/p>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_europa_plant1.png"
+&lt;figure>&lt;img src="../images/house_of_europa_plant1.jpg"
  alt="View of the peristyle of the house.">&lt;figcaption>
  &lt;h4>Fig. 2: View of the peristyle of the house (Blanchard Lemée, M., AOrOc)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/house_of_europa_plant.png"
+&lt;figure>&lt;img src="../images/house_of_europa_plant.jpg"
  alt="View of planter d.">&lt;figcaption>
  &lt;h4>Fig. 3: View of planter d (Blanchard Lemée, M., AOrOc)&lt;/h4>
  &lt;/figcaption>
@@ -8088,7 +8091,7 @@ recent excavations&lt;/p>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_hylas_photo.png"
+&lt;figure>&lt;img src="../images/house_of_hylas_photo.jpg"
  alt="View of the corridor and the basin. On the background, the courtyard garden.">&lt;figcaption>
  &lt;h4>Fig. 2: View of the corridor and the basin. On the background, the courtyard garden (Blanchard Lemée, M., AOrOc)&lt;/h4>
  &lt;/figcaption>
@@ -8153,7 +8156,7 @@ recent excavations&lt;/p>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo2.png"
+&lt;figure>&lt;img src="../images/house_of_bacchus_plan_photo2.jpg"
  alt="Southern side of the rectangular pool">&lt;figcaption>
  &lt;h4>Fig. 2: Southern side of the rectangular pool (Février, P.-A. – CCJ 62881)&lt;/h4>
  &lt;/figcaption>
@@ -8488,75 +8491,75 @@ Eleven large tree root cavities were counted with dimensions of 30 cm. or more a
 
 
 ### Images
-&lt;figure>&lt;img src="../../../images/fig._63,_ii.viii.6_17.7.73.png"
+&lt;figure>&lt;img src="../../../images/fig._63,_ii.viii.6_17.7.73.jpg"
  alt="Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig.63, 17.7.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._64,_ii.viii.6_8.33.73.png"
+&lt;figure>&lt;img src="../../../images/fig._64,_ii.viii.6_8.33.73.jpg"
  alt="Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 64, 8.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._65,_ii.viii.6_21a.13.73.png"
+&lt;figure>&lt;img src="../../../images/fig._65,_ii.viii.6_21a.13.73.jpg"
  alt="Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 65, 21A.13.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../../images/fig._66,_ii.viii.6_23.23.74.png"
+&lt;figure>&lt;img src="../../../images/fig._66,_ii.viii.6_23.23.74.jpg"
  alt="Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 66, 23.23.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._67,_ii.viii.6_21.31.73.png"
+&lt;figure>&lt;img src="../../../images/fig._67,_ii.viii.6_21.31.73.jpg"
  alt="Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 67, 21.31.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._68,_ii.viii.6_18.10.73.png"
+&lt;figure>&lt;img src="../../../images/fig._68,_ii.viii.6_18.10.73.jpg"
  alt="Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 68, 18.10.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../../images/fig._69,_ii.viii.6_21.15.73.png"
+&lt;figure>&lt;img src="../../../images/fig._69,_ii.viii.6_21.15.73.jpg"
  alt="Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 69, 21.15.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._70,_ii.viii.6_7.33.73.png"
+&lt;figure>&lt;img src="../../../images/fig._70,_ii.viii.6_7.33.73.jpg"
  alt="Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 70, 7.33.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._71,_ii.viii.6_11.8.73.png"
+&lt;figure>&lt;img src="../../../images/fig._71,_ii.viii.6_11.8.73.jpg"
  alt="Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 71, 11.8.73 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._72,_ii.viii.6_11.31.71.png"
+&lt;figure>&lt;img src="../../../images/fig._72,_ii.viii.6_11.31.71.jpg"
  alt="Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 72, 11.31.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._73,_ii.viii.6_21.30.72.png"
+&lt;figure>&lt;img src="../../../images/fig._73,_ii.viii.6_21.30.72.jpg"
  alt="Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 73, 21.30.72 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._74,_ii.viii.6_11.20.74.png"
+&lt;figure>&lt;img src="../../../images/fig._74,_ii.viii.6_11.20.74.jpg"
  alt="Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 74, 11.20.74 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
@@ -8614,19 +8617,19 @@ Jashemski examined this garden in 1971 and found a series of cavities along the 
 
 
 ### Images
-&lt;figure>&lt;img src="../../../images/fig._78,_ii.ix.6_12.8.71.png"
+&lt;figure>&lt;img src="../../../images/fig._78,_ii.ix.6_12.8.71.jpg"
  alt="Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 78, 12.8.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._79,_ii.ix.6_12.17.71.png"
+&lt;figure>&lt;img src="../../../images/fig._79,_ii.ix.6_12.17.71.jpg"
  alt="Fig. 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig 79, 12.17.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../../../images/fig._80,_ii.ix.6_12.25.71.png"
+&lt;figure>&lt;img src="../../../images/fig._80,_ii.ix.6_12.25.71.jpg"
  alt="Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
  &lt;h4>Fig. 80, 12.25.71 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
  &lt;/figcaption>
@@ -10215,13 +10218,13 @@ p. 364, pl. 14. &lt;a href="http://www.worldcat.org/oclc/1028897747">(worldcat)&
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/truemper3.png"
+&lt;figure>&lt;img src="../images/truemper3.jpg"
  alt="Photo of Agora of the Italians from the southwest">&lt;figcaption>
  &lt;h4>Fig. 3: Agora of the Italians, overview from southwest. Photo courtesy of M. Trümper.&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/truemper4.png"
+&lt;figure>&lt;img src="../images/truemper4.jpg"
  alt="Photo of Agora of the Italians from the southeast">&lt;figcaption>
  &lt;h4>Fig. 4: Agora of the Italians, overview from southeast. Photo courtesy of M. Trümper.&lt;/h4>
  &lt;/figcaption>
@@ -11944,158 +11947,7 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>562.Insula or. I.2-3(B)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_b/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_b/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
-&lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/">Insula Orientalis I&lt;/a>&lt;/p>
-&lt;h2 id="house">House&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/">House 2-3&lt;/a>&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>B&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004097">atriums (Roman halls)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300053875">stuccoing&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
-&lt;p>B. From the atrium the peristyle on the lower level was reached by way of a steeply sloping corridor. Stuccoed brick columns and a low wall 0.50 m. high enclosed the central area (b) and a large gutter collected water from the edges and conducted it to the cistern. A rectangular pool ca. 2.60 x 5.00 m. with the inside painted blue was located in the center of this area. At the rear of the pool an area paved with bipedales (tiles two feet long) covered the cellars below with an opening 1.70 x 2.20 to provide light. Jashemski noted that the paved and planted areas were reconstructed with a lattice fence between them, although she did not know of any evidence to support this interpretation.&lt;/p>
-&lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_or.i_b.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-b.jpg"
- alt="Herculaneum - insula orientalis I. 1-3-b">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 1-3-b&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/herc.i.2,3_42.19.64.jpg"
- alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
-&lt;h3 id="dates">Dates&lt;/h3>
-&lt;p>Unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
-&lt;ul>
-&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, pp.66-67 &lt;a href="http://www.worldcat.org/oclc/1107784297">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, 1:50-51 and fig. 89 on p. 51 &lt;a href="http://www.worldcat.org/oclc/1029851777">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 20210&lt;/p></description></item><item><title>563.Insula or. I.2-3(C)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_c/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_c/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
-&lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/">Insula Orientalis I&lt;/a>&lt;/p>
-&lt;h2 id="house">House&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/">House 2-3&lt;/a>&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>C&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
-&lt;p>C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).&lt;/p>
-&lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_or.i_c.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-c.jpg"
- alt="Herculaneum - insula orientalis I. 1-3-c">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 1-3-c&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
-&lt;h3 id="dates">Dates&lt;/h3>
-&lt;p>Unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
-&lt;ul>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 20210&lt;/p></description></item><item><title>564.Insula or. I.2-3(D)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_d/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_d/</guid><description>&lt;h2 id="province">Province&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
-&lt;h2 id="location">Location&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
-&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
-&lt;h3 id="location-description">Location Description&lt;/h3>
-&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
-&lt;h2 id="insula">Insula&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/">Insula Orientalis I&lt;/a>&lt;/p>
-&lt;h2 id="house">House&lt;/h2>
-&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/">House 2-3&lt;/a>&lt;/p>
-&lt;h2 id="garden">Garden&lt;/h2>
-&lt;p>D&lt;/p>
-&lt;h3 id="keywords">Keywords&lt;/h3>
-&lt;ul>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300310541">rustic&lt;/a>&lt;/li>
-&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007558">shrines&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="garden-description">Garden Description&lt;/h3>
-&lt;p>D. A rustic shrine was attached to the north side of the house and a long narrow garden (d) was located here. There was evidence of earlier construction at this location.&lt;/p>
-&lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/herculaneum_or.i_d.jpg"
- alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
- &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-d.jpg"
- alt="Herculaneum - insula orientalis I. 1-3-d">&lt;figcaption>
- &lt;h4>Herculaneum - insula orientalis I. 1-3-d&lt;/h4>
- &lt;/figcaption>
-&lt;/figure>
-
-&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
-&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
-&lt;h4 id="tgn-id">TGN ID&lt;/h4>
-&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
-&lt;h3 id="dates">Dates&lt;/h3>
-&lt;p>Unspecified&lt;/p>
-&lt;h3 id="bibliography">Bibliography&lt;/h3>
-&lt;ul>
-&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 67 &lt;a href="http://www.worldcat.org/oclc/1107784297">(worldcat)&lt;/a>&lt;/li>
-&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 359, 360 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;h3 id="contributor">Contributor&lt;/h3>
-&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
-&lt;h3 id="publication-date">Publication date&lt;/h3>
-&lt;p>21 Apr 20210&lt;/p></description></item><item><title>Casa del Rivievo di Telefo (Insula or. I.2-3)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/casa_del_rivievo_di_telefo/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/casa_del_rivievo_di_telefo/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Casa del Rivievo di Telefo (Insula or. I.2-3)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/casa_del_rivievo_di_telefo/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/casa_del_rivievo_di_telefo/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
 &lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
 &lt;h2 id="location">Location&lt;/h2>
@@ -12314,6 +12166,157 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;h3 id="bibliography">Bibliography&lt;/h3>
 &lt;ul>
 &lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p.65 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item><item><title>Insula or. I.2-3(B)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_b/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_b/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/">Insula Orientalis I&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/">House 2-3&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>B&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300004097">atriums (Roman halls)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300053875">stuccoing&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>B. From the atrium the peristyle on the lower level was reached by way of a steeply sloping corridor. Stuccoed brick columns and a low wall 0.50 m. high enclosed the central area (b) and a large gutter collected water from the edges and conducted it to the cistern. A rectangular pool ca. 2.60 x 5.00 m. with the inside painted blue was located in the center of this area. At the rear of the pool an area paved with bipedales (tiles two feet long) covered the cellars below with an opening 1.70 x 2.20 to provide light. Jashemski noted that the paved and planted areas were reconstructed with a lattice fence between them, although she did not know of any evidence to support this interpretation.&lt;/p>
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/herculaneum_or.i_b.jpg"
+ alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
+ &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-b.jpg"
+ alt="Herculaneum - insula orientalis I. 1-3-b">&lt;figcaption>
+ &lt;h4>Herculaneum - insula orientalis I. 1-3-b&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h3 id="images">Images&lt;/h3>
+&lt;figure>&lt;img src="../images/herc.i.2,3_42.19.64.jpg"
+ alt="Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)">&lt;figcaption>
+ &lt;h4>Herculaneum - insula orientalis I. 2.3-2 (Stanley Jashemski, Jashemski Archives, University of Maryland)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, pp.66-67 &lt;a href="http://www.worldcat.org/oclc/1107784297">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Jashemski, &lt;em>Gardens&lt;/em>, 1:50-51 and fig. 89 on p. 51 &lt;a href="http://www.worldcat.org/oclc/1029851777">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item><item><title>Insula or. I.2-3(C)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_c/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_c/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/">Insula Orientalis I&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/">House 2-3&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>C&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300080971">peristyles (Roman courtyards)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>C. There are five rooms south of the peristyle and on a lower level beyond them is another garden (c).&lt;/p>
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/herculaneum_or.i_c.jpg"
+ alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
+ &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-c.jpg"
+ alt="Herculaneum - insula orientalis I. 1-3-c">&lt;figcaption>
+ &lt;h4>Herculaneum - insula orientalis I. 1-3-c&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, p. 353 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="contributor">Contributor&lt;/h3>
+&lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
+&lt;h3 id="publication-date">Publication date&lt;/h3>
+&lt;p>21 Apr 20210&lt;/p></description></item><item><title>Insula or. I.2-3(D)</title><link>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_d/</link><pubDate>Wed, 30 Sep 2020 00:10:10 -0400</pubDate><guid>https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/insula_or._i.2-3_d/</guid><description>&lt;h2 id="province">Province&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/">Italia&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/1052">Italia (Pleiades)&lt;/a>&lt;/p>
+&lt;h2 id="location">Location&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/">Herculaneum&lt;/a> &lt;br>
+&lt;a href="https://pleiades.stoa.org/places/432873">Herculaneum (Pleiades)&lt;/a>&lt;/p>
+&lt;h3 id="location-description">Location Description&lt;/h3>
+&lt;p>An ancient Roman town of Campania destroyed by the eruption of Mt. Vesuvius in A.D.79. Named as a UNESCO World Heritage Site in 1997.&lt;/p>
+&lt;h2 id="insula">Insula&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/">Insula Orientalis I&lt;/a>&lt;/p>
+&lt;h2 id="house">House&lt;/h2>
+&lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/italia/herculaneum/insula_or_i/house_2-3/">House 2-3&lt;/a>&lt;/p>
+&lt;h2 id="garden">Garden&lt;/h2>
+&lt;p>D&lt;/p>
+&lt;h3 id="keywords">Keywords&lt;/h3>
+&lt;ul>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300310541">rustic&lt;/a>&lt;/li>
+&lt;li>&lt;a href="http://vocab.getty.edu/page/aat/300007558">shrines&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h3 id="garden-description">Garden Description&lt;/h3>
+&lt;p>D. A rustic shrine was attached to the north side of the house and a long narrow garden (d) was located here. There was evidence of earlier construction at this location.&lt;/p>
+&lt;h3 id="plans">Plans&lt;/h3>
+&lt;figure>&lt;img src="../images/herculaneum_or.i_d.jpg"
+ alt="Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)">&lt;figcaption>
+ &lt;h4>Plan of the new excavations of Herculaneum (Maiuri, Herculaneum)&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;figure>&lt;img src="../images/h_orientalis_1_1-3-d.jpg"
+ alt="Herculaneum - insula orientalis I. 1-3-d">&lt;figcaption>
+ &lt;h4>Herculaneum - insula orientalis I. 1-3-d&lt;/h4>
+ &lt;/figcaption>
+&lt;/figure>
+
+&lt;h4 id="pleiades-id">Pleiades ID&lt;/h4>
+&lt;p>&lt;a href="https://pleiades.stoa.org/places/432873">432873&lt;/a>&lt;/p>
+&lt;h4 id="tgn-id">TGN ID&lt;/h4>
+&lt;p>&lt;a href="http://vocab.getty.edu/page/tgn/7031897">7031897&lt;/a>&lt;/p>
+&lt;h3 id="dates">Dates&lt;/h3>
+&lt;p>Unspecified&lt;/p>
+&lt;h3 id="bibliography">Bibliography&lt;/h3>
+&lt;ul>
+&lt;li>Maiuri, &lt;em>Herculaneum&lt;/em>, p. 67 &lt;a href="http://www.worldcat.org/oclc/1107784297">(worldcat)&lt;/a>&lt;/li>
+&lt;li>Maiuri, &lt;em>Ercolano&lt;/em>, pp. 359, 360 &lt;a href="http://www.worldcat.org/oclc/490581395">(worldcat)&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;h3 id="contributor">Contributor&lt;/h3>
 &lt;p>Wilhelmina Jashemski (&lt;a href="https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250">https://lib.guides.umd.edu/c.php?g=326514&amp;amp;p=2193250&lt;/a>)&lt;/p>
@@ -13026,14 +13029,14 @@ NEW WAY ↓↓↓↓
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_8.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-8.jpg"
  alt="Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula viii, plan in Jashemski, *Gardens*, plan 11, p.42; I.viii-ix: plan in Eschebach (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13105,14 +13108,14 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.tif"
+&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
  alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13175,14 +13178,14 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.tif"
+&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
  alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13278,14 +13281,14 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.tif"
+&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
  alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13399,14 +13402,14 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.tif"
+&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
  alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13495,14 +13498,14 @@ NEW WAY ↓↓↓↓
 
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_vii.tif"
+&lt;figure>&lt;img src="../../images/Region_I_insula_vii.jpg"
  alt="Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula vii, plan in Jashemski, *Gardens*, plan 10, p. 37; *NSc* (1929), pl. 18; Spinazzola, *Scavi nuovi*, vol. 1, after p. 679; Ibid, vol. 2, after p. 1027; entire insula in Eschebach (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13615,14 +13618,14 @@ NEW WAY ↓↓↓↓
 &lt;!--
 ### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_v.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-v.png"
  alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -13693,14 +13696,14 @@ NEW WAY ↓↓↓↓
 -->
 &lt;!--### Plans
 
-&lt;figure>&lt;img src="../../../images/Fig_1_Region_I.tif"
+&lt;figure>&lt;img src="../../../images/fig-1-region-i.jpg"
  alt="Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of Pompeii with Region I highlighted, plan in Jashemski, Gardens, p.21 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 
-&lt;figure>&lt;img src="../../images/Region_I_insula_v.tif"
+&lt;figure>&lt;img src="../../images/region-i-insula-v.png"
  alt="Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10.">&lt;figcaption>
  &lt;h4>Fig. 2: Plan of Region I, insula v, plan in Jashemski, *Gardens*, plan 8, p. 33; Viola, *Scavi*, pl. 1; Niccolini, *Case*, vol. 3, “*Topografia*,” pl. 10 (Rights Statement).&lt;/h4>
  &lt;/figcaption>
@@ -16496,7 +16499,7 @@ The low wing of the palace (Fig 2, AK) incorporated the two Hasmonean swimming p
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../fig_10.jpg"
+&lt;figure>&lt;img src="../images/fig_10.jpg"
  alt="Figure 4: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer).">&lt;figcaption>
  &lt;h4>Figure 4: The raised garden in the peristyle courtyard in Herod’s Second Palace (photo by E. Netzer).&lt;/h4>
  &lt;/figcaption>
@@ -17600,20 +17603,20 @@ A sublocation is any area larger than an individual garden, but located within a
 &lt;p>Limited excavations to the south of the palace revealed an artificial terrace which bore evidence of landscaping, including a pool, a gravel path, possible bedding trenches and what may have been the base for a column or statue. Excavations to the east of the palace in the mid 1980's uncovered evidence for semi-formal gardens.&lt;/p>
 &lt;!-- ### Maps -->
 &lt;h3 id="plans">Plans&lt;/h3>
-&lt;figure>&lt;img src="../images/Fishbourne_Fig_1.jpg"
+&lt;figure>&lt;img src="../images/fishbourne-fig-1.jpg"
  alt="Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.">&lt;figcaption>
  &lt;h4>Fig. 1: Plan of the Roman Palace showing the position of the gardens. Courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
 &lt;h3 id="images">Images&lt;/h3>
-&lt;figure>&lt;img src="../images/Fishbourne_Fig._2.jpg"
+&lt;figure>&lt;img src="../images/fishbourne-fig-2.jpg"
  alt="Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace.">&lt;figcaption>
  &lt;h4>Fig. 2: View of formal garden excavation. Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/h4>
  &lt;/figcaption>
 &lt;/figure>
 
-&lt;figure>&lt;img src="../images/Fishbourne_Fig._3.jpg"
+&lt;figure>&lt;img src="../images/fishbourne-fig-3.jpg"
  alt="Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.">&lt;figcaption>
  &lt;h4>Fig. 3: View of replanted formal garden. Photo courtesy of David Rudkin for Fishbourne Roman Palace.&lt;/h4>
  &lt;/figcaption>
@@ -17983,12 +17986,12 @@ ig. 1: Area outside the Balkerne gate before widening of the town ditch. Details
 &lt;h3 id="publication-date">Publication date&lt;/h3>
 &lt;p>21 Apr 2021&lt;/p>
 &lt;!--### Related articles-->
-&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Contribute</title><link>https://roman-gardens.github.io/test-a/contribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-a/contribute/</guid><description>&lt;h3 id="content-correctionserrors">Content Corrections/Errors&lt;/h3>
-&lt;p>Please send an email with a description of the error and the url of the page on which it appears to &lt;a href="mailto:klg16@cornell.edu">Kathryn Gleason&lt;/a> or &lt;a href="mailto:aicha.malek@ens.psl.eu">Amina-Aïcha Malek&lt;/a>.&lt;/p>
-&lt;h3 id="contribute-a-garden-entry">Contribute a Garden Entry&lt;/h3>
-&lt;p>Please contact the &lt;a href="https://roman-gardens.github.io/test-a/contributors/">area editor&lt;/a> for the appropriate province.&lt;/p>
-&lt;h3 id="join-the-team">Join the team!&lt;/h3>
+&lt;!-- Links to other related articles. Leave blank for now --></description></item><item><title>Contribute</title><link>https://roman-gardens.github.io/test-a/contribute/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-a/contribute/</guid><description>&lt;h3 id="join-the-team">Join the team!&lt;/h3>
 &lt;p>This site will move into the future with a team of dedicated scholars who will continue to build the site to meet the needs of current scholarship. Please contact &lt;a href="mailto:klg16@cornell.edu">Kathryn Gleason&lt;/a> if you would like to work on the digital humanities aspect of the project or would like to contribute in traditional analog formats. We are also looking for individuals with advanced skills in Hugo and Github to assist with trouble shooting.&lt;/p>
+&lt;h3 id="contribute-a-garden-entry">Contribute a Garden Entry&lt;/h3>
+&lt;p>Please contact &lt;a href="mailto:dk4338@nyu.edu">Divya Kumar-Dumas&lt;/a>.&lt;/p>
+&lt;h3 id="content-correctionserrors">Content Corrections/Errors&lt;/h3>
+&lt;p>Please send an email with a description of the error and the url of the page on which it appears to &lt;a href="mailto:dk4338@nyu.edu">Divya Kumar-Dumas&lt;/a>.&lt;/p>
 &lt;h3 id="support-the-project">Support the Project&lt;/h3>
 &lt;p>Although this website has been designed to function inexpensively using volunteers, we can do more with the project if we additional means to train and support students, young scholars, and technical experts. If you are interested in being a project collaborator or supporter, contact &lt;a href="mailto:klg16@cornell.edu">Kathryn Gleason&lt;/a>. Donations may be made to a collaborating institution or to the Society for Garden Archaeology.&lt;/p></description></item><item><title>East Temple (Temple de l'Est)</title><link>https://roman-gardens.github.io/test-a/province/africa_proconsularis/thuburbo_maius/east_temple/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://roman-gardens.github.io/test-a/province/africa_proconsularis/thuburbo_maius/east_temple/</guid><description>&lt;h2 id="province">Province&lt;/h2>
 &lt;p>&lt;a href="https://roman-gardens.github.io/test-a/province/africa_proconsularis/">Africa Proconsularis&lt;/a> &lt;br>
