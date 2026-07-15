@@ -461,6 +461,10 @@ sup {
   font-size: 75%;
 }
 
-.embed-place-description.hidden {
-  display: none;
+/* Greek letters detected via detectGreek() in custom.js */
+em:lang(el) {
+  color: #850;
+  font-weight: bold;
+  font-family: "Arial", sans-serif;
+  font-style: normal; /* not italics */
 }
